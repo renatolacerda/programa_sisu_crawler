@@ -1,0 +1,15 @@
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\obj\x86\Debug\SISU.Resources.resources
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\obj\x86\Debug\SISU.SISU.resources
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\bin\Debug\SISU.exe
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\bin\Debug\SISU.pdb
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\bin\Debug\SISU.xml
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\bin\Debug\MySql.Data.dll
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\obj\x86\Debug\SISU.exe
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\obj\x86\Debug\SISU.xml
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\obj\x86\Debug\SISU.pdb
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\bin\Debug\HtmlAgilityPack.dll
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\bin\Debug\HtmlAgilityPack.pdb
+C:\PP\j-common-p\Projetos\Atuais\SISU\SISU\bin\Debug\HtmlAgilityPack.xml

@@ -1,0 +1,13 @@
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\bin\Debug\TESTES.exe
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\bin\Debug\TESTES.pdb
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\bin\Debug\TESTES.xml
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\TESTES.Resources.resources
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\TESTES.exe
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\TESTES.xml
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\TESTES.pdb
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\TESTES.DATAGRID_VIA_COD.resources
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\TESTES.ACESSODBF.resources
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTES\obj\x86\Debug\TESTES.Dates.resources

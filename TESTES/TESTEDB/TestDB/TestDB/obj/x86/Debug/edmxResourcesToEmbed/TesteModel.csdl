@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TesteDatabaseModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="TesteDatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbTelefoneSet" EntityType="TesteDatabaseModel.tbTelefone" />
+    <EntitySet Name="tbClienteSet" EntityType="TesteDatabaseModel.tbCliente" />
+    <AssociationSet Name="tbClientetbTelefone" Association="TesteDatabaseModel.tbClientetbTelefone">
+      <End Role="tbCliente" EntitySet="tbClienteSet" />
+      <End Role="tbTelefone" EntitySet="tbTelefoneSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tbCliente">
+    <Key>
+      <PropertyRef Name="IdCliente" />
+    </Key>
+    <Property Type="Int32" Name="IdCliente" Nullable="false" annotation:StoreGeneratedPattern="Identity" a:GetterAccess="Public" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+    <Property Type="String" Name="Nome" Nullable="false" />
+    <Property Type="String" Name="Rua" Nullable="false" />
+    <NavigationProperty Name="tbTelefone" Relationship="TesteDatabaseModel.tbClientetbTelefone" FromRole="tbCliente" ToRole="tbTelefone" />
+  </EntityType>
+  <EntityType Name="tbTelefone">
+    <Key>
+      <PropertyRef Name="IdTelefone" />
+    </Key>
+    <Property Type="Int32" Name="IdTelefone" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Tel" Nullable="false" />
+    <Property Type="String" Name="IdCliente" Nullable="false" />
+    <NavigationProperty Name="tbCliente" Relationship="TesteDatabaseModel.tbClientetbTelefone" FromRole="tbTelefone" ToRole="tbCliente" />
+  </EntityType>
+  <Association Name="tbClientetbTelefone">
+    <End Type="TesteDatabaseModel.tbCliente" Role="tbCliente" Multiplicity="1" />
+    <End Type="TesteDatabaseModel.tbTelefone" Role="tbTelefone" Multiplicity="*" />
+  </Association>
+</Schema>

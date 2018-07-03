@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TesteDatabaseModel.Store" Alias="Self" Provider="System.Data.SqlServerCe.3.5" ProviderManifestToken="3.5" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TesteDatabaseModelStoreContainer">
+    <EntitySet Name="tbTelefoneSet" EntityType="TesteDatabaseModel.Store.tbTelefoneSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tbClienteSet" EntityType="TesteDatabaseModel.Store.tbClienteSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="tbClientetbTelefone" Association="TesteDatabaseModel.Store.tbClientetbTelefone">
+      <End Role="tbCliente" EntitySet="tbClienteSet" />
+      <End Role="tbTelefone" EntitySet="tbTelefoneSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tbTelefoneSet">
+    <Key>
+      <PropertyRef Name="IdTelefone" />
+    </Key>
+    <Property Name="IdTelefone" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tel" Type="nvarchar" Nullable="false" />
+    <Property Name="IdCliente" Type="nvarchar" Nullable="false" />
+    <Property Name="tbCliente_IdCliente" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbClienteSet">
+    <Key>
+      <PropertyRef Name="IdCliente" />
+    </Key>
+    <Property Name="IdCliente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nome" Type="nvarchar" Nullable="false" />
+    <Property Name="Rua" Type="nvarchar" Nullable="false" />
+  </EntityType>
+  <Association Name="tbClientetbTelefone">
+    <End Role="tbCliente" Type="TesteDatabaseModel.Store.tbClienteSet" Multiplicity="1" />
+    <End Role="tbTelefone" Type="TesteDatabaseModel.Store.tbTelefoneSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbCliente">
+        <PropertyRef Name="IdCliente" />
+      </Principal>
+      <Dependent Role="tbTelefone">
+        <PropertyRef Name="tbCliente_IdCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

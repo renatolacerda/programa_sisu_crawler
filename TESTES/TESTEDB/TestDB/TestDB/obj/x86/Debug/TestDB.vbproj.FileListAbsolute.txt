@@ -1,0 +1,26 @@
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\bin\Debug\TesteDatabase.sdf
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\bin\Debug\TestDB.exe.config
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\bin\Debug\TestDB.exe
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\bin\Debug\TestDB.pdb
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\bin\Debug\TestDB.xml
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\obj\x86\Debug\TestDB.Resources.resources
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\obj\x86\Debug\TestDB.exe
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\obj\x86\Debug\TestDB.xml
+C:\Documents and Settings\Renato\Configurações locais\Dados de aplicativos\Temporary Projects\TestDB\obj\x86\Debug\TestDB.pdb
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\TestDB.exe
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\TestDB.xml
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\TestDB.pdb
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\TestDB.Form1.resources
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\TestDB.Resources.resources
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\obj\x86\Debug\TestDB.exe.licenses
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\bin\Debug\Teste.sdf
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\bin\Debug\TestDB.exe.config
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\bin\Debug\TestDB.exe
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\bin\Debug\TestDB.pdb
+C:\PP\j-common-p\Projetos\Atuais\TESTES\TESTEDB\TestDB\TestDB\bin\Debug\TestDB.xml
